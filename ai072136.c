@@ -7,5 +7,6 @@ int main(){
   char name[100];
   scanf("%s",name);
   num=strlen(name);
-  printf("%d",num);
+  printf("%d/n",num);
+return EXIT_SUCCESS;
 }
